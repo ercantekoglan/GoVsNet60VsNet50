@@ -12,3 +12,4 @@ You'll find `net60.js` and `go.js` under `LoadTests` folder.
 
 ## 100 VUs 30 sec
 ![GoVsNet60-100VUs-30sec](/LoadTests/GoVsNet60-100VUs-30sec.png)
+![Net50-100VUs-30sec](/LoadTests/Net50-100VUs-30sec.png)
